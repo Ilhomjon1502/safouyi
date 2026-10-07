@@ -2,7 +2,7 @@
   "name": "Safo bog‘chasi",
   "short_name": "Safo",
   "lang": "uz",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#FFFBFD",
   "theme_color": "#0A8FE8",
