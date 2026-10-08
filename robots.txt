@@ -11,4 +11,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://ilhomjon1502.github.io/safouyi/sitemap.xml
+Sitemap: https://www.safouyi.uz/sitemap.xml
